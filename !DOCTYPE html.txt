@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>You’ve Been Baited</title>
+  <style>
+    body {
+      font-family: 'Courier New', monospace;
+      background-color: black;
+      color: lime;
+      text-align: center;
+      padding: 100px;
+    }
+    h1 {
+      color: red;
+      font-size: 48px;
+    }
+    p {
+      font-size: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>⚠️ SYSTEM BREACH ⚠️</h1>
+  <p>You scanned a mysterious QR code...</p>
+  <p>And boom — you fell for a classic baiting attack 😈</p>
+  <p>This was a harmless demo. But imagine if this were real.</p>
+  <p>📚 Lesson: Never scan unknown codes or plug in random USBs.</p>
+</body>
+</html>
